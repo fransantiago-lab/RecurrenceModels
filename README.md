@@ -1,1 +1,1 @@
-# XGBOOST Models for Weekly Recurrence Index (WRI)
+# Models for Weekly Recurrence Index (WRI)
